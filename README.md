@@ -16,7 +16,7 @@ How to Use
 ==========
 You can use PJiOSAppConsole into your <file name>.m writing single line as...
 
-[PJiOSAppConsole NSLog:@"Your Text" forView:self.view];
+![alt tag][PJiOSAppConsole NSLog:@"Your Text" forView:self.view];
 
 License
 =======
