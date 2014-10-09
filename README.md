@@ -3,6 +3,8 @@ PJiOSAppConsole
 
 iOS ( iPhone / iPad ) app console where developer can add text/messages and see them directly on application. No need to connect iPhone/iPad to mac to see the device logs. Very useful tool for tester and backend guys to see request response of the webservices on app directly.
 
+<img src=http://i.imgur.com/QnQigM3.png>
+
 Adding PJiOSAppConsole to your project
 ======================================
 Source files
