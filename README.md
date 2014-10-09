@@ -14,9 +14,9 @@ Include PJiOSAppConsole wherever you need it with #import "PJiOSAppConsole.h".
 
 How to Use
 ==========
-You can use PJiOSAppConsole into your <file name>.m writing single line as...
+You can use PJiOSAppConsole into your <file name>.m writing single line as given below...
 
-![alt tag][PJiOSAppConsole NSLog:@"Your Text" forView:self.view];
+	[PJiOSAppConsole NSLog:@"Your Text" forView:self.view];
 
 License
 =======
