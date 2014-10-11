@@ -8,8 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-@interface PJiOSAppConsole : UIView
+@interface PJiOSAppConsole : UIView <UIGestureRecognizerDelegate>
 + (PJiOSAppConsole *) initPJiOSAppConsole:(UIView *)view;
 - (void) showLog:(NSString *)strLog;
 + (void) NSLog:(NSString *)strLog forView:(UIView *) view;
+
 @end
